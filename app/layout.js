@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Blacktop roadside and repair",
+  title: "Blacktop Roadside and Repair",
   description: "Roadside assistance, light repairs, prepurchase inspections, and professional guidance in North GA",
 };
 
