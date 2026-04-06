@@ -77,7 +77,8 @@ export default function Home() {
           <p style={{ color: "#d1d1d1", lineHeight: 1.7 }}>
             When vehicle problems happen, most people just want clear answers and real help. Blacktop Roadside and
             Repair is built around simple service, honest guidance, and practical help for common roadside and light
-            vehicle issues. With 15+ years of hands-on automotive experience, we believe in straightforward communication, dependable help, and treating people right when they need it most.          </p>
+            vehicle issues. With 15+ years of hands-on automotive experience, we believe in straightforward communication, 
+              dependable help, and treating people right when they need it most.          </p>
         </div>
       </section>
 
