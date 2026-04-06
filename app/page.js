@@ -13,9 +13,8 @@ export default function Home() {
   return (
     <main style={{ minHeight: "100vh", background: "#0a0a0a", color: "#ffffff", fontFamily: "Arial, sans-serif" }}>
       <section style={{ maxWidth: 1000, margin: "0 auto", padding: "80px 24px 56px", textAlign: "center" }}>
-        <p style={{ color: "#b3b3b3", marginBottom: 12 }}>Local small business serving North GA</p>
 <img
-public/logo.png
+  src="/logo.png"
   alt="Blacktop Roadside and Repair logo"
   style={{
     width: "320px",
@@ -24,8 +23,7 @@ public/logo.png
   }}
 />
 
-<p style={{ color: "#b3b3b3", marginBottom: 12 }}>
-  Local small business serving North GA
+<p style={{ color: "#b3b3b3", marginBottom: 12 }}>  Local small business serving North GA
 </p>
   <p style={{ fontSize: "20px", lineHeight: 1.6, color: "#d1d1d1", maxWidth: 760, margin: "24px auto" }}>
           Fast roadside help for dead batteries, flat tires, lockouts, fuel delivery, and light repairs.
