@@ -14,7 +14,7 @@ export default function Home() {
     <main style={{ minHeight: "100vh", background: "#0a0a0a", color: "#ffffff", fontFamily: "Arial, sans-serif" }}>
       <section style={{ maxWidth: 1000, margin: "0 auto", padding: "80px 24px 56px", textAlign: "center" }}>
         <p style={{ color: "#b3b3b3", marginBottom: 12 }}>Serving North GA</p>
-        <h1 style={{ fontSize: "48px", margin: 0 }}>Blacktop roadside and repair</h1>
+        <h1 style={{ fontSize: "48px", margin: 0 }}>Blacktop Roadside and Repair</h1>
         <p style={{ fontSize: "20px", lineHeight: 1.6, color: "#d1d1d1", maxWidth: 760, margin: "24px auto" }}>
           Fast roadside help for dead batteries, flat tires, lockouts, fuel delivery, and light repairs.
           Simple, local, and easy to reach.
@@ -73,7 +73,7 @@ export default function Home() {
 
       <section style={{ maxWidth: 1000, margin: "0 auto", padding: "0 24px 56px" }}>
         <div style={{ background: "#141414", border: "1px solid #2a2a2a", borderRadius: 20, padding: 28 }}>
-          <h2 style={{ fontSize: "32px", marginTop: 0 }}>Why call Blacktop roadside and repair</h2>
+          <h2 style={{ fontSize: "32px", marginTop: 0 }}>Why call Blacktop Roadside and Repair</h2>
           <p style={{ color: "#d1d1d1", lineHeight: 1.7 }}>
             When vehicle problems happen, most people just want clear answers and real help. Blacktop roadside and
             repair is built around simple service, honest guidance, and practical help for common roadside and light
