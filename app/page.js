@@ -15,7 +15,7 @@ export default function Home() {
       <section style={{ maxWidth: 1000, margin: "0 auto", padding: "80px 24px 56px", textAlign: "center" }}>
         <p style={{ color: "#b3b3b3", marginBottom: 12 }}>Local small business serving North GA</p>
 <img
-  src="/logo.png"
+public/logo.png
   alt="Blacktop Roadside and Repair logo"
   style={{
     width: "320px",
