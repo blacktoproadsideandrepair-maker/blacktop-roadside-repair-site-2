@@ -26,20 +26,6 @@ export default function Home() {
 <p style={{ color: "#b3b3b3", marginBottom: 12 }}>  Local small business serving North GA
 </p>
 
-  <div
-  style={{
-    border: "1px solid #333",
-    borderRadius: "12px",
-    padding: "16px",
-    margin: "20px 0",
-    background: "#111111",
-    color: "#ffffff",
-  }}
->
-  <p style={{ margin: 0, fontSize: "16px", lineHeight: "1.6" }}>
-    <strong>Blacktop Roadside and Repair</strong> is currently growing and operating with limited service hours as we build toward full-time availability. If we miss your call, please leave a voicemail or send a text, and we’ll get back to you as soon as possible.
-  </p>
-</div>
   <p style={{ fontSize: "20px", lineHeight: 1.6, color: "#d1d1d1", maxWidth: 760, margin: "24px auto" }}>
           Fast roadside help for dead batteries, flat tires, lockouts, fuel delivery, and light repairs.
           Simple, local, and easy to reach.
@@ -74,7 +60,21 @@ export default function Home() {
           </a>
         </div>
       </section>
-
+<div
+  style={{
+    border: "1px solid #333",
+    borderRadius: "12px",
+    padding: "16px",
+    margin: "0 auto 32px",
+    background: "#111111",
+    color: "#ffffff",
+    maxWidth: "900px",
+  }}
+>
+  <p style={{ margin: 0, fontSize: "15px", lineHeight: "1.6", color: "#d1d1d1" }}>
+    <strong style={{ color: "#ffffff" }}>Blacktop Roadside and Repair</strong> is currently growing and operating with limited service hours as we build toward full-time availability. If we miss your call, please leave a voicemail or send a text, and we’ll get back to you as soon as possible.
+  </p>
+</div>
       <section style={{ maxWidth: 1000, margin: "0 auto", padding: "0 24px 56px" }}>
         <div style={{ background: "#141414", border: "1px solid #2a2a2a", borderRadius: 20, padding: 28 }}>
           <h2 style={{ fontSize: "32px", marginTop: 0 }}>Services</h2>
