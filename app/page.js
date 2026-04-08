@@ -25,6 +25,21 @@ export default function Home() {
 
 <p style={{ color: "#b3b3b3", marginBottom: 12 }}>  Local small business serving North GA
 </p>
+
+  <div
+  style={{
+    border: "1px solid #333",
+    borderRadius: "12px",
+    padding: "16px",
+    margin: "20px 0",
+    background: "#111111",
+    color: "#ffffff",
+  }}
+>
+  <p style={{ margin: 0, fontSize: "16px", lineHeight: "1.6" }}>
+    <strong>Blacktop Roadside and Repair</strong> is currently growing and operating with limited service hours as we build toward full-time availability. If we miss your call, please leave a voicemail or send a text, and we’ll get back to you as soon as possible.
+  </p>
+</div>
   <p style={{ fontSize: "20px", lineHeight: 1.6, color: "#d1d1d1", maxWidth: 760, margin: "24px auto" }}>
           Fast roadside help for dead batteries, flat tires, lockouts, fuel delivery, and light repairs.
           Simple, local, and easy to reach.
