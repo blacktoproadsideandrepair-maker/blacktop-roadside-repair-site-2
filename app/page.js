@@ -12,7 +12,7 @@ export default function Home() {
 
   return (
     <main style={{ minHeight: "100vh", background: "#0a0a0a", color: "#ffffff", fontFamily: "Arial, sans-serif" }}>
-      <section style={{ maxWidth: 1000, margin: "0 auto", padding: "80px 24px 56px", textAlign: "center" }}>
+      <section style={{ maxWidth: 1000, margin: "0 auto", padding: "80px 24px 32px", textAlign: "center" }}>
 <img
   src="/logo.png"
   alt="Blacktop Roadside and Repair logo"
