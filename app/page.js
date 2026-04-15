@@ -8,12 +8,14 @@ export default function Home() {
     "Light Roadside Repairs",
     "Pre-purchase Inspections",
     "Honest Advice",
+    "MUCH MORE",
   ];
 
   const trustPoints = [
     "Local Small Business",
     "15+ Years of Hands-on Experience",
     "Honest, Straightforward Service",
+    "Competitive Pricing & Discounts",
     "Simple Call or Text Contact",
   ];
 
