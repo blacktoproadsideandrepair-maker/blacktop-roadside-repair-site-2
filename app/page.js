@@ -211,10 +211,7 @@ export default function Home() {
         >
           <h2 style={{ fontSize: "32px", marginTop: 0 }}>About</h2>
           <p style={{ color: "#d1d1d1", lineHeight: 1.7, marginBottom: 0 }}>
-            Blacktop Roadside and Repair is a local small business serving North
-            Georgia with roadside assistance and light vehicle repair. With 15+
-            years of hands-on automotive experience, we aim to provide honest,
-            simple, and dependable help when you need it most.
+     Blacktop Roadside and Repair is a local small business built on honest work, dependable service, and real hands-on experience. With 15+ years of automotive experience, we aim to help people with roadside needs and light vehicle repairs in a way that is simple, fair, and straightforward. We know car problems usually come at the worst time, and our goal is to provide reliable, respectful help done with care.
           </p>
         </div>
       </section>
