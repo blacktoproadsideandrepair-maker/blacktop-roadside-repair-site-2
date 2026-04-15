@@ -48,17 +48,6 @@ export default function Home() {
           Local small business serving North GA
         </p>
 
-        <h1
-          style={{
-            fontSize: "40px",
-            lineHeight: 1.15,
-            margin: "0 auto 18px",
-            maxWidth: 800,
-          }}
-        >
-          Roadside Help and Light Auto Repair in North Georgia
-        </h1>
-
         <p
           style={{
             fontSize: "20px",
