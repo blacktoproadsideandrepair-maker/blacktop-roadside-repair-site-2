@@ -227,7 +227,7 @@ export default function Home() {
         >
           <h2 style={{ fontSize: "32px", marginTop: 0 }}>Service Area</h2>
           <p style={{ color: "#d1d1d1", lineHeight: 1.7, marginBottom: 0 }}>
-            Proudly serving North Georgia, including Canton, Waleska, Jasper,
+            Proudly serving North Georgia, including Holly Springs, Canton, Jasper,
             and surrounding areas.
           </p>
         </div>
