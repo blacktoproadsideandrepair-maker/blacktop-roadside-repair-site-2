@@ -1,20 +1,20 @@
 export default function Home() {
   const services = [
-    "Jump starts",
-    "Flat tire help",
-    "Battery replacement help",
-    "Lockout assistance",
-    "Fuel delivery",
-    "Light repairs",
-    "Prepurchase inspections",
-    "Professional guidance",
+    "Jump Starts",
+    "Flat Tire Help",
+    "Battery Replacement",
+    "Lockout Assistance",
+    "Fuel Delivery",
+    "Light Roadside Repairs",
+    "Pre-purchase Inspections",
+    "Honest Advice",
   ];
 
   const trustPoints = [
-    "Local small business",
-    "15+ years of hands-on experience",
-    "Honest, straightforward service",
-    "Simple call or text contact",
+    "Local Small Business",
+    "15+ Years of Hands-on Experience",
+    "Honest, Straightforward Service",
+    "Simple Call or Text Contact",
   ];
 
   return (
@@ -45,7 +45,7 @@ export default function Home() {
         />
 
         <p style={{ color: "#b3b3b3", marginBottom: 12 }}>
-          Local small business serving North GA
+          Local Small Business Serving North GA
         </p>
 
         <p
@@ -57,7 +57,8 @@ export default function Home() {
             margin: "0 auto",
           }}
         >
-       Fast Roadside Assistance for Flat Tires, Lockouts, Fuel Delivery, Dead Batteries, Light Repairs, and MORE!
+          Fast Roadside Assistance for Flat Tires, Lockouts, Fuel Delivery, Dead
+          Batteries, Light Roadside Repairs, and More.
         </p>
 
         <div
@@ -209,9 +210,10 @@ export default function Home() {
             padding: 28,
           }}
         >
-          <h2 style={{ fontSize: "32px", marginTop: 0 }}>About</h2>
+          <h2 style={{ fontSize: "32px", marginTop: 0 }}>Service Area</h2>
           <p style={{ color: "#d1d1d1", lineHeight: 1.7, marginBottom: 0 }}>
-     Blacktop Roadside and Repair is a local small business built on honest work, dependable service, and real hands-on experience. With 15+ years of automotive experience, we aim to help people with roadside needs and light vehicle repairs in a way that is simple, fair, and straightforward. We know car problems usually come at the worst time, and our goal is to provide reliable, respectful help done with care.
+            Proudly Serving North Georgia, Including Holly Springs, Canton,
+            Jasper, and Surrounding Areas.
           </p>
         </div>
       </section>
@@ -225,11 +227,70 @@ export default function Home() {
             padding: 28,
           }}
         >
-          <h2 style={{ fontSize: "32px", marginTop: 0 }}>Service Area</h2>
+          <h2 style={{ fontSize: "32px", marginTop: 0 }}>About</h2>
           <p style={{ color: "#d1d1d1", lineHeight: 1.7, marginBottom: 0 }}>
-            Proudly serving North Georgia, including Holly Springs, Canton, Jasper,
-            and surrounding areas.
+            Blacktop Roadside and Repair is a local small business built on
+            honest work, dependable service, and real hands-on experience. With
+            15+ years of automotive experience, we aim to help people with
+            roadside needs and light vehicle repairs in a way that is simple,
+            fair, and straightforward. We know car problems usually come at the
+            worst time, and our goal is to provide reliable, respectful help
+            done with care.
           </p>
+        </div>
+      </section>
+
+      <section style={{ maxWidth: 1000, margin: "0 auto", padding: "0 24px 80px" }}>
+        <div
+          style={{
+            background: "#141414",
+            border: "1px solid #2a2a2a",
+            borderRadius: 20,
+            padding: 28,
+            textAlign: "center",
+          }}
+        >
+          <h2 style={{ fontSize: "32px", marginTop: 0 }}>Need Help?</h2>
+          <p style={{ color: "#d1d1d1", lineHeight: 1.7, marginBottom: 24 }}>
+            Call or Text for Roadside Service Availability.
+          </p>
+
+          <div
+            style={{
+              display: "flex",
+              gap: 12,
+              justifyContent: "center",
+              flexWrap: "wrap",
+            }}
+          >
+            <a
+              href="tel:7065155017"
+              style={{
+                background: "#ffffff",
+                color: "#111111",
+                padding: "14px 22px",
+                borderRadius: 12,
+                textDecoration: "none",
+                fontWeight: "bold",
+              }}
+            >
+              Call (706) 515-5017
+            </a>
+
+            <a
+              href="sms:7065155017"
+              style={{
+                border: "1px solid #444",
+                color: "#ffffff",
+                padding: "14px 22px",
+                borderRadius: 12,
+                textDecoration: "none",
+                fontWeight: "bold",
+              }}
+            >
+              Text for Help
+            </a>
+          </div>
         </div>
       </section>
     </main>
