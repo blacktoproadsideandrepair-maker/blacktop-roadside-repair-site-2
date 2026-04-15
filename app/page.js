@@ -57,7 +57,7 @@ export default function Home() {
             margin: "0 auto",
           }}
         >
-       Fast roadside assistance for flat tires, lockouts, fuel delivery, dead batteries, light repairs, and more.
+       Fast Roadside Assistance for Flat Tires, Lockouts, Fuel Delivery, Dead Batteries, Light Repairs, and MORE!
         </p>
 
         <div
