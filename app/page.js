@@ -89,7 +89,7 @@ export default function Home() {
           <a
             href="sms:7065155017"
             style={{
-              border: "1px solid #444",
+              background: "#ffffff",
               color: "#111111",
               padding: "14px 22px",
               borderRadius: 12,
@@ -282,7 +282,7 @@ export default function Home() {
             <a
               href="sms:7065155017"
               style={{
-                border: "1px solid #444",
+                background: "#ffffff",
                 color: "#111111",
                 padding: "14px 22px",
                 borderRadius: 12,
