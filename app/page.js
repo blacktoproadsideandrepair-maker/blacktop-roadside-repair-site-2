@@ -90,7 +90,7 @@ export default function Home() {
             href="sms:7065155017"
             style={{
               border: "1px solid #444",
-              color: "#ffffff",
+              color: "#111111",
               padding: "14px 22px",
               borderRadius: 12,
               textDecoration: "none",
@@ -283,7 +283,7 @@ export default function Home() {
               href="sms:7065155017"
               style={{
                 border: "1px solid #444",
-                color: "#ffffff",
+                color: "#111111",
                 padding: "14px 22px",
                 borderRadius: 12,
                 textDecoration: "none",
